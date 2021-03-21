@@ -1,2 +1,2 @@
 # hello-world
-Following the guide to get familiar with Github
+Following the guide to get familiar with GitHub
